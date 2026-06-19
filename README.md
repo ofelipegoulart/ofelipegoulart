@@ -1,7 +1,23 @@
-### Olá! 👋
+# Hi, I'm Felipe 👋
 
-Meu nome é Felipe. Tenho 26 anos e sou acadêmico de Ciências da Computação pela Universidade Federal de Santa Catarina (UFSC). 
+Computer Science student at UFSC and software developer passionate about building web applications and learning how large-scale systems work.
 
-- 👨‍💻 Minhas principais stacks são Java (usando framework Spring Boot), Next.js e Python (para Data Science e Web Scraping);
-- 📫 Você pode me contatar por [aqui!](mailto:ofelipegoulart@gmail.com);
-- 🧑‍💼 Você também pode conferir meu [Linkedin!](https://www.linkedin.com/in/felipe-souza-goulart/);
+### Tech Stack
+
+- ☕ Java & Spring Boot
+- ⚛️ Next.js & React
+- 🐍 Python (Data Science & Web Scraping)
+- 🗄️ PostgreSQL
+- 🐳 Docker
+- ☁️ AWS (currently learning)
+
+### Current Projects
+
+- 🔵 Rebuilding Orkut with modern technologies
+- 🔐 Authentication and authorization systems
+- 🌐 Full-stack web applications
+
+### Contact
+
+- 📧 Email: [ofelipegoulart@gmail.com](mailto:ofelipegoulart@gmail.com)
+- 💼 LinkedIn: [Felipe Souza Goulart](https://www.linkedin.com/in/felipe-souza-goulart/)
